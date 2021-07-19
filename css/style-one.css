@@ -1,0 +1,71 @@
+body
+{
+	font-family:cambria;
+	margin:0px;
+	background-color:#E5E5E5;
+}
+h1,h2
+{
+	margin:0px;
+	font-weight:normal;
+}
+#outer-header
+{
+	background-color:#006666;
+	color:#ffffff;
+	padding:10px 0px 5px 10px;
+}
+#box
+{
+	width:500px;
+	height:auto;
+	background-color:#fff;
+	margin:auto;	
+	margin-top:100px;
+}
+#box-header
+{
+	background-color:#006666;
+	color:#fff;
+	padding:10px;
+}
+#box-body
+{
+	padding:20px;
+}
+.names
+{
+	padding:10px 0px;
+	min-height:20px;
+}
+.names label
+{
+	width:30%;
+	float:left;
+	font-weight:bold;
+}
+.inputs
+{
+	width:70%;
+	float:right;
+}
+.inputs input
+{
+	width:98%;
+}
+#action-box
+{
+	
+	background-color:#E5E5E5;
+	padding:20px 10px;
+	
+}
+.action-button
+{
+	border:1px solid gray;
+	padding: 5px 10px 5px 30px;
+	background-image:url('../images/icons/tick.png');	
+	background-repeat:no-repeat;
+	background-position:10px 4px;
+	font-weight:bold;
+}
